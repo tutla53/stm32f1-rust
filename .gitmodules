@@ -1,0 +1,8 @@
+[submodule "embassy-rs"]
+	path = embassy-rs
+	url = https://github.com/embassy-rs/embassy.git
+	branch = main
+	ignore = dirty
+[submodule "embassy"]
+	path = embassy
+	url = https://github.com/embassy-rs/embassy.git
